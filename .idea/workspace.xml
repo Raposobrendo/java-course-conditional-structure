@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44078dd4-82ce-4391-b4ef-6cef014d80a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ifElseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CumulativeAttribution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TernaryConditional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Structural Sequence" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ifElseStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IfElseStatement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="34FAE1fiiDwOfaQIDetMed08BLS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,6 +38,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CumulativeAttribution.executor": "Run",
+    "Application.SwitchCase.executor": "Run",
+    "Application.TernaryConditional.executor": "Run",
     "Application.ifElseStatement.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -42,9 +49,30 @@
     "onboarding.tips.debug.path": "C:/Projects/Java/Java_course/conditionalStructure/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="ifElseStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ifElseStatement" />
+  <component name="RunManager" selected="Application.TernaryConditional">
+    <configuration name="CumulativeAttribution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CumulativeAttribution" />
+      <module name="conditionalStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfElseStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfElseStatement" />
+      <module name="conditionalStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchCase" />
+      <module name="conditionalStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TernaryConditional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TernaryConditional" />
       <module name="conditionalStructure" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -52,7 +80,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ifElseStatement" />
+        <item itemvalue="Application.TernaryConditional" />
+        <item itemvalue="Application.SwitchCase" />
+        <item itemvalue="Application.CumulativeAttribution" />
+        <item itemvalue="Application.IfElseStatement" />
       </list>
     </recent_temporary>
   </component>

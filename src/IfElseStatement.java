@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ifElseStatement {
+public class IfElseStatement {
     public static void main (String[] Args){
         Scanner sc = new Scanner(System.in);
 
